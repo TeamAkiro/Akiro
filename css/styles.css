@@ -1,0 +1,40 @@
+body {
+  font-size: 1em;
+}
+.top-container {
+  font-family: 'MonteCarlo', cursive;
+  line-height: 1
+}
+.middle-container {
+  line-height: 0.4
+}
+.bottom-container {
+  line-height: 0.4;
+  font-family: 'Lobster', cursive;
+}
+.quote {
+  color: #960018;
+}
+.cloud {
+  position: relative;
+  top: 40px;
+}
+h1 {
+  font-size: 5.26em ;
+  color: #66BFBF;
+}
+h2 {
+  font-size: 3em ;
+}
+h3 {
+    font-size: 2em;
+    color: #66BFBF;
+}
+p {
+  font-size: 1.5em;
+}
+.skillgif {
+  width : 25%;
+  float: left;
+  margin-right: 30px;
+}
